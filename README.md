@@ -8,3 +8,5 @@ Dataset of Vrinda Store is in Excel file.
 📊 I have Performed data cleaning, data processing, data analysis, data visualization with the use of pivot tables and generated
 valuable insights.
 🌱Let's see what insights I have gathered. 
+
+💠Insights - 
