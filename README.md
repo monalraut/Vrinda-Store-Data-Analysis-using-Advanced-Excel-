@@ -2,7 +2,7 @@
 
 Welcome to the Vrinda Store Data Analysis project! 🎉
 
-Dataset of Vrinda Store is in Excel file.
+📅 Dataset of Vrinda Store is in Excel file.
 
 🔍 I have created an annual sales report using advanced excel to understand their customers.
 
